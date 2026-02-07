@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バレンタイン決戦",
+  "base_artist": "乃紫",
+  "createdAt": "2026-02-07T05:58:18.635577Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バレンタイン決戦",
+      "artist": "乃紫",
+      "has_synced": false,
+      "path": "select/pl_01_バレンタイン決戦_乃紫.txt"
+    }
+  ]
+}
